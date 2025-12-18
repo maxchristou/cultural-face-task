@@ -1,10 +1,10 @@
 {
   "experiment_info": {
-    "total_stimuli": 20,
-    "practice_trials": 4,
-    "main_trials": 16,
-    "western_count": 10,
-    "chinese_count": 10
+    "total_stimuli": 6,
+    "practice_trials": 2,
+    "main_trials": 4,
+    "western_count": 3,
+    "chinese_count": 3
   },
   "stimuli": [
     {
@@ -17,54 +17,12 @@
       "image": "images/western/frustrated-man-stock-shutter_mixed_0013_2c348c68.jpg",
       "source": "western",
       "image_id": "frustrated-man-stock-shutter_mixed_0013_2c348c68.jpg",
-      "is_practice": true
+      "is_practice": false
     },
     {
       "image": "images/western/frustrated-man-stock-shutter_mixed_0024_ac04c7c4.jpg",
       "source": "western",
       "image_id": "frustrated-man-stock-shutter_mixed_0024_ac04c7c4.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0026_6146600c.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0026_6146600c.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0035_2663e7e3.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0035_2663e7e3.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0041_89cb6d60_face01.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0041_89cb6d60_face01.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0043_c8a0a38b.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0043_c8a0a38b.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0045_9e509cd1.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0045_9e509cd1.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0071_8fe0a6ee.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0071_8fe0a6ee.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/western/frustrated-man-stock-shutter_mixed_0073_e4b53726.jpg",
-      "source": "western",
-      "image_id": "frustrated-man-stock-shutter_mixed_0073_e4b53726.jpg",
       "is_practice": false
     },
     {
@@ -77,54 +35,12 @@
       "image": "images/chinese/\u5174\u65fa\u7684\u4fa6\u63a2_0139_68314720.jpg",
       "source": "chinese",
       "image_id": "\u5174\u65fa\u7684\u4fa6\u63a2_0139_68314720.jpg",
-      "is_practice": true
+      "is_practice": false
     },
     {
       "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0006_e4dfa0bc.jpg",
       "source": "chinese",
       "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0006_e4dfa0bc.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0011_c406a87e.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0011_c406a87e.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0013_a8b8acd6.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0013_a8b8acd6.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0014_6ce8c83e.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0014_6ce8c83e.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0017_d7c1a118.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0017_d7c1a118.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0024_2d2478ae.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0024_2d2478ae.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0025_f8f68b0f.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0025_f8f68b0f.jpg",
-      "is_practice": false
-    },
-    {
-      "image": "images/chinese/\u534e\u5357_\u4e50\u7684\u519b\u58eb_0026_75da62eb.jpg",
-      "source": "chinese",
-      "image_id": "\u534e\u5357_\u4e50\u7684\u519b\u58eb_0026_75da62eb.jpg",
       "is_practice": false
     }
   ]
